@@ -1,4 +1,4 @@
-package fart;
+package net.magicmouse.fart.utils;
 
 import java.awt.*;
 
